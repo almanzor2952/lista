@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,[000] Movistar+ HD
+rtp://@239.0.5.185:8208
+#EXTINF:-1,[001] La 1 HD
+rtp://@239.0.0.185:8208
+#EXTINF:-1,[002] La 2 HD
+rtp://@239.0.0.183:8208
+#EXTINF:-1,[003] Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:-1,[004] Cuatro HD
+rtp://@239.0.0.177:8208
+#EXTINF:-1,[005] Tele 5 HD
+rtp://@239.0.0.176:8208
+#EXTINF:-1,[006] La Sexta HD
+rtp://@239.0.0.187:8208
+#EXTINF:-1,[026] Neox HD
+rtp://@239.0.5.207:8208
+#EXTINF:-1,[027] Atreseries HD
+rtp://@239.0.0.190:8208
+#EXTINF:-1,[044] DEPORTES HD
+rtp://@239.0.0.180:8208
+#EXTINF:-1,[045] #Vamos HD
+rtp://@239.0.5.197:8208
+#EXTINF:-1,[063] GOL HD
+rtp://@239.0.5.189:8208
+#EXTINF:-1,[064] Teledeporte HD
+rtp://@239.0.0.188:8208
+#EXTINF:-1,[068] Real Madrid TV HD
+rtp://@239.0.0.179:8208
+#EXTINF:-1,[084] Nova HD
+rtp://@239.0.5.209:8208
+#EXTINF:-1,[085] MEGA HD
+rtp://@239.0.5.210:8208
+#EXTINF:-1,[086] BeMad HD
+rtp://@239.0.0.182:8208
+#EXTINF:-1,[094] Nickelodeon HD
+rtp://@239.0.5.193:8208
+#EXTINF:-1,[096] Disney Channel HD
+rtp://@239.0.0.173:8208
+#EXTINF:-1,[098] Clan TVE HD
+rtp://@239.0.0.184:8208
+#EXTINF:-1,[166] Movistar Eventos HD
+rtp://@239.0.0.204:8208
